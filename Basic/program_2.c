@@ -1,3 +1,4 @@
+// Sum of n natural number using recursive function
 #include<stdio.h>
 int sum(int);
 int main()
