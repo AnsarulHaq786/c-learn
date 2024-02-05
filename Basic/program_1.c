@@ -1,4 +1,4 @@
-//WAP to input radius of circle and display the area and circumference
+//Input radius of circle and display the area and circumference
 #include<stdio.h>
 #include<math.h>
 #define PI 3.141592
