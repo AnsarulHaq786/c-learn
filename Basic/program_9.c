@@ -1,3 +1,4 @@
+// Calculates the Sum, Difference, Multiplication and Division of any two numbers
 #include<stdio.h>
 #include<stdlib.h>
 float sum(float,float);
