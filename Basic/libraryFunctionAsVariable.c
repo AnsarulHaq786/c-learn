@@ -7,7 +7,7 @@ int main()
 	puts(printf);
 	/*
 	char break[]="hello world!"; //this does not work ->jump statement function
-	puts(printf);	
+	puts(break);	
 	*/
 	return 0;
 }
