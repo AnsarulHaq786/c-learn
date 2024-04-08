@@ -43,4 +43,5 @@ void sumToTarget(int numArr[],int target,int n)
 			}
 		}
 	}
+    printf("No match found!");
 }
