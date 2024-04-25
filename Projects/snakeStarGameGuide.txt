@@ -1,0 +1,13 @@
+1.Snake starts to move from random location
+2.Stars gets generated at random location
+3.New star is generated when star on screen is eaten by Snake
+4.Avoid to touch border with snake head
+
+Press 'j' key to move left
+Press 'k' key to move down
+Press 'l' key to move right
+Press 'i' key to move up
+Press 'q' key to quit game
+
+  i
+j k l
